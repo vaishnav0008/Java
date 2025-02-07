@@ -7,6 +7,6 @@ class EvenOdd
 		int num = new Scanner(System.in).nextInt();
 		//int result = num/2;
 		System.out.println(num/2 == num/2.0);
-		//System.out.println(num/2 > 0);
+		//System.out.println(num/2 > 0);   
 	}
 }
