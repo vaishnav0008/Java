@@ -46,7 +46,7 @@ class IntToString
 			default:
 				System.out.println("Enter valid");
             
-			op = op+i;
+			
 			num = num/10;
 			}
 		}
